@@ -15,19 +15,19 @@
   "socks5": "socks5://user:pass:ip:port",
   "socks5tl": false,
   "ACCESSTOKEN": "EAAD6V7os0gcBOwmZAZAfSYzhg1qspaMIXlPZAbgHd0XLbuOYfdzU5cOoGLgmFSKILYNw5uaGVHs5F4LjCGLgwbZBtxAoAZCiDAVKbn4sThgeuoX8i3UZClX0RZAXg5FNZAtdP7KkhO4Ew0e4XJrHgBcciC5Ovf48C9PNDepzbodDQmkDUfZBrfdFJD44EyuvjUpAMoCEdfCS6fQZDZD",
-  "FACEBOOK_ADMIN": "https://www.facebook.com/pcoder090/",
+  "FACEBOOK_ADMIN": "https://www.facebook.com/share/1GRiGj3Air/?mibextid=wwXIfr",
   "ZALO_ADMIN": "",
-  "ADMIN_NAME": "Nguyễn Trương Thiện Phát",
-  "BOTNAME": "PCODER",
-  "PREFIX": ".",
+  "ADMIN_NAME": "ai biet",
+  "BOTNAME": "Chim🤓",
+  "PREFIX": "/",
   "DEVELOPERS": [
-    "100047128875560"
+    ""
   ],
   "ADMINBOT": [
-    "100047128875560"
+    "100090636969624"
   ],
   "NDH": [
-    "100047128875560"
+    "100090636969624"
   ],
   "DATABASE": {
     "sqlite": {
@@ -36,7 +36,7 @@
   },
   "DESIGN": {
     "Theme": "rainbow",
-    "Admin": "Nguyễn Trương Thiện Phát",
+    "Admin": "Linh",
     "Setup": {
       "Theme": "Mày có thể dùng các Theme như: Red and Hacker to enhance your terminal logs."
     }
